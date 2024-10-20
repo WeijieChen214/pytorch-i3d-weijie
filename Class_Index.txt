@@ -1,0 +1,8 @@
+1 Jump
+2 Twist
+3 Lift
+4 Spirals
+5 Throw
+6 Spin
+7 Sequence
+

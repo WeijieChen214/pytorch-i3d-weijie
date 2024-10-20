@@ -1,0 +1,2152 @@
+    {
+        "Pairs_Free_seg1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        83.6,
+                        86.0
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        102.3,
+                        104.3
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        119.1,
+                        122.9
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        135.6,
+                        146.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        156.5,
+                        167.5
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        182.0,
+                        197.2
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        215.7,
+                        218.9
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        231.1,
+                        233.8
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        249.2,
+                        257.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        270.6,
+                        279.0
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        284.3,
+                        306.5
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Free_seg10": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        59.1,
+                        61.4
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        78.5,
+                        82.4
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        93.9,
+                        96.3
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        113.6,
+                        125.4
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        139.3,
+                        144.4
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        156.8,
+                        160.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        170.4,
+                        181.7
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        198.8,
+                        202.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        219.1,
+                        221.8
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        221.9,
+                        244.7
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        249.5,
+                        279.6
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Free_seg12": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        64.5,
+                        66.9
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        85.0,
+                        90.3
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        110.9,
+                        112.7
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        135.8,
+                        145.6
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        157.4,
+                        160.5
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        169.0,
+                        181.7
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        182.1,
+                        204.1
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        223.6,
+                        231.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        245.8,
+                        249.9
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        251.4,
+                        269.5
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        270.2,
+                        286.9
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Free_seg13": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        62.6,
+                        65.2
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        76.3,
+                        80.0
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        95.7,
+                        99.1
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        115.4,
+                        129.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        144.8,
+                        147.3
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        151.2,
+                        174.6
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        189.4,
+                        197.4
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        213.4,
+                        216.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        229.6,
+                        241.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        248.9,
+                        260.0
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        260.4,
+                        282.2
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Free_seg14": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        69.1,
+                        71.6
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        88.3,
+                        90.8
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        101.0,
+                        103.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        108.0,
+                        119.2
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        153.6,
+                        157.7
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        176.1,
+                        184.6
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        186.3,
+                        204.5
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        214.4,
+                        217.0
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        225.8,
+                        233.7
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        245.1,
+                        255.7
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        259.5,
+                        286.5
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Free_seg15": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        61.4,
+                        63.5
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        74.8,
+                        81.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        102.2,
+                        104.4
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        119.0,
+                        122.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        122.4,
+                        130.9
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        140.5,
+                        153.4
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        170.6,
+                        181.3
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        200.0,
+                        203.9
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        217.1,
+                        232.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        244.0,
+                        256.2
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        259.4,
+                        280.0
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Free_seg16": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        72.7,
+                        75.5
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        92.8,
+                        97.5
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        114.1,
+                        122.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        137.5,
+                        140.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        144.2,
+                        169.8
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        189.0,
+                        192.0
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        203.0,
+                        214.9
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        223.2,
+                        226.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        231.8,
+                        242.6
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        252.1,
+                        267.6
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        270.4,
+                        282.5
+                    ],
+                    "label": "Sequence"
+                }
+            ]
+        },
+        "Pairs_Free_seg3": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        67.9,
+                        70.9
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        81.4,
+                        85.4
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        102.6,
+                        105.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        125.7,
+                        127.8
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        140.0,
+                        150.2
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        157.6,
+                        171.9
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        182.5,
+                        208.3
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        218.2,
+                        228.0
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        239.4,
+                        242.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        246.0,
+                        261.7
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        268.8,
+                        281.5
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Free_seg4": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        63.1,
+                        66.8
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        89.8,
+                        93.6
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        112.0,
+                        114.9
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        126.7,
+                        129.7
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        131.3,
+                        145.7
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        169.1,
+                        179.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        189.8,
+                        193.4
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        196.0,
+                        210.7
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        212.9,
+                        220.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        231.1,
+                        253.7
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        268.0,
+                        277.8
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Free_seg5": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        64.1,
+                        66.5
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        84.4,
+                        89.8
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        110.8,
+                        113.6
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        119.9,
+                        130.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        152.1,
+                        155.0
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        164.6,
+                        174.8
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        194.1,
+                        199.1
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        211.8,
+                        222.4
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        227.6,
+                        239.7
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        247.8,
+                        259.0
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        262.6,
+                        283.5
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Free_seg6": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        63.7,
+                        68.0
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        83.0,
+                        85.8
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        95.5,
+                        98.5
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        112.1,
+                        122.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        139.3,
+                        142.4
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        150.6,
+                        164.0
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        165.0,
+                        188.9
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        194.2,
+                        216.2
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        226.9,
+                        236.9
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        255.5,
+                        258.5
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        271.0,
+                        282.6
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Free_seg8": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        68.6,
+                        70.8
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        89.2,
+                        94.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        103.5,
+                        115.1
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        123.6,
+                        145.0
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        165.0,
+                        167.5
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        176.3,
+                        185.3
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        203.1,
+                        206.1
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        207.1,
+                        222.0
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        237.0,
+                        239.6
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        249.9,
+                        259.9
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        270.0,
+                        285.7
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Free_seg9": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        65.8,
+                        68.9
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        82.4,
+                        86.5
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        104.4,
+                        106.8
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        121.0,
+                        124.6
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        132.6,
+                        142.3
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        142.4,
+                        169.3
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        194.2,
+                        197.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        208.6,
+                        220.2
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        221.4,
+                        233.8
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        241.6,
+                        249.2
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        259.4,
+                        278.9
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Short_seg10": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        63.9,
+                        66.6
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        84.3,
+                        87.1
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        95.2,
+                        98.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        110.9,
+                        123.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        129.6,
+                        141.7
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        144.5,
+                        179.1
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        189.9,
+                        208.9
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Short_seg13": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        99.0,
+                        102.4
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        116.9,
+                        121.4
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        133.3,
+                        149.0
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        161.7,
+                        164.6
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        168.6,
+                        186.0
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        189.0,
+                        226.3
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        228.6,
+                        239.6
+                    ],
+                    "label": "Spirals"
+                }
+            ]
+        },
+        "Pairs_Short_seg14": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        54.6,
+                        59.3
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        69.9,
+                        74.6
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        83.0,
+                        94.7
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        99.6,
+                        118.0
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        132.0,
+                        136.9
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        138.9,
+                        181.2
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        185.2,
+                        197.2
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Short_seg16": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        71.9,
+                        74.7
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        87.4,
+                        90.5
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        107.2,
+                        111.1
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        121.6,
+                        134.3
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        141.6,
+                        152.0
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        153.1,
+                        190.6
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        193.8,
+                        208.0
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Short_seg3": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        87.5,
+                        89.8
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        97.8,
+                        99.9
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        114.5,
+                        119.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        131.1,
+                        143.7
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        149.2,
+                        165.3
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        166.6,
+                        210.9
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        213.2,
+                        224.4
+                    ],
+                    "label": "Spirals"
+                }
+            ]
+        },
+        "Pairs_Short_seg4": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        55.7,
+                        58.6
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        70.8,
+                        73.9
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        84.7,
+                        88.1
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        96.5,
+                        106.9
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        115.8,
+                        126.6
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        127.9,
+                        185.4
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        187.4,
+                        205.3
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Pairs_Short_seg5": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        67.8,
+                        70.9
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        80.5,
+                        83.4
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        112.5,
+                        116.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        122.6,
+                        134.3
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        136.0,
+                        149.9
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        154.0,
+                        189.1
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        190.5,
+                        203.4
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Pairs_Short_seg9": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        67.3,
+                        70.0
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        86.3,
+                        89.6
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        96.5,
+                        108.0
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        124.0,
+                        126.8
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        132.5,
+                        145.5
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        150.9,
+                        167.4
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        168.8,
+                        207.5
+                    ],
+                    "label": "Sequence"
+                }
+            ]
+        },
+        "Team_Free_seg1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        41.8,
+                        45.3
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        60.7,
+                        62.6
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        70.7,
+                        73.4
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        82.7,
+                        96.3
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        104.5,
+                        117.0
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        120.9,
+                        165.8
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        167.0,
+                        186.5
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Team_Free_seg2": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        62.8,
+                        66.0
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        78.7,
+                        81.5
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        98.2,
+                        102.1
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        111.7,
+                        124.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        131.8,
+                        141.7
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        143.6,
+                        180.2
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        182.7,
+                        199.4
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Team_Free_seg3": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        60.1,
+                        63.2
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        73.7,
+                        77.9
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        96.0,
+                        99.7
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        104.9,
+                        114.2
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        117.8,
+                        166.8
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        171.2,
+                        183.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        187.4,
+                        207.9
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Team_Free_seg6": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        59.3,
+                        63.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        80.6,
+                        83.4
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        93.0,
+                        98.2
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        107.2,
+                        116.6
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        120.5,
+                        155.5
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        164.7,
+                        176.4
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        179.6,
+                        205.7
+                    ],
+                    "label": "Spin"
+                }
+            ]
+        },
+        "Team_Free_seg7": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        61.3,
+                        64.4
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        72.2,
+                        75.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        89.7,
+                        93.6
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        105.7,
+                        117.7
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        123.9,
+                        139.4
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        145.2,
+                        180.8
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        188.9,
+                        199.6
+                    ],
+                    "label": "Spirals"
+                }
+            ]
+        },
+        "Team_Free_seg9": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        58.3,
+                        61.5
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        69.2,
+                        72.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        84.0,
+                        87.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        98.3,
+                        111.3
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        116.2,
+                        136.6
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        140.7,
+                        186.7
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        190.3,
+                        203.3
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Team_Short_seg2": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        51.5,
+                        54.7
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        69.8,
+                        76.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        92.0,
+                        101.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        115.7,
+                        118.7
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        123.4,
+                        150.1
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        167.6,
+                        170.3
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        181.8,
+                        192.8
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        201.2,
+                        204.8
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        208.6,
+                        221.6
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        231.4,
+                        247.3
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        250.2,
+                        262.4
+                    ],
+                    "label": "Sequence"
+                }
+            ]
+        },
+        "Team_Short_seg3": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        77.5,
+                        80.6
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        90.8,
+                        94.7
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        111.4,
+                        114.6
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        133.5,
+                        137.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        149.2,
+                        159.9
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        167.1,
+                        182.8
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        192.4,
+                        217.5
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        227.6,
+                        237.1
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        248.2,
+                        251.3
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        255.5,
+                        275.3
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        279.4,
+                        291.2
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Team_Short_seg4": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        63.7,
+                        69.8
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        84.0,
+                        88.2
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        97.0,
+                        100.5
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        114.5,
+                        124.2
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        141.6,
+                        144.8
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        151.7,
+                        167.8
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        168.1,
+                        190.2
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        198.5,
+                        223.4
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        229.3,
+                        238.9
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        256.4,
+                        259.9
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        272.7,
+                        284.7
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        },
+        "Team_Short_seg5": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        65.9,
+                        70.2
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        92.8,
+                        97.3
+                    ],
+                    "label": "Jump"
+                },
+                {
+                    "segment": [
+                        115.9,
+                        119.0
+                    ],
+                    "label": "Twist"
+                },
+                {
+                    "segment": [
+                        130.1,
+                        132.8
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        137.3,
+                        149.6
+                    ],
+                    "label": "Spirals"
+                },
+                {
+                    "segment": [
+                        173.0,
+                        182.2
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        193.3,
+                        195.7
+                    ],
+                    "label": "Throw"
+                },
+                {
+                    "segment": [
+                        199.6,
+                        211.2
+                    ],
+                    "label": "Sequence"
+                },
+                {
+                    "segment": [
+                        216.2,
+                        222.6
+                    ],
+                    "label": "Lift"
+                },
+                {
+                    "segment": [
+                        234.1,
+                        255.2
+                    ],
+                    "label": "Spin"
+                },
+                {
+                    "segment": [
+                        269.3,
+                        282.3
+                    ],
+                    "label": "Lift"
+                }
+            ]
+        }
+    }
